@@ -13,6 +13,7 @@ namespace UserStore.DAL.EF
 
         }
         public DbSet<ClientProfile> ClientProfiles { get; set; }
+        public DbSet<Article> Articles { get; set; }
         public void Commit()
         {
             SaveChanges();

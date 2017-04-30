@@ -46,3 +46,19 @@ d:\Visual Studio\Исходники\UserStore\UserStore.BLL\bin\Debug\Microsoft.
 d:\Visual Studio\Исходники\UserStore\UserStore.BLL\obj\Debug\UserStore.BLL.csprojResolveAssemblyReference.cache
 d:\Visual Studio\Исходники\UserStore\UserStore.BLL\obj\Debug\UserStore.BLL.dll
 d:\Visual Studio\Исходники\UserStore\UserStore.BLL\obj\Debug\UserStore.BLL.pdb
+d:\Work\Виланд\Backend\Viland\UserStore.BLL\bin\Debug\UserStore.BLL.dll.config
+d:\Work\Виланд\Backend\Viland\UserStore.BLL\bin\Debug\UserStore.BLL.dll
+d:\Work\Виланд\Backend\Viland\UserStore.BLL\bin\Debug\UserStore.BLL.pdb
+d:\Work\Виланд\Backend\Viland\UserStore.BLL\bin\Debug\EntityFramework.dll
+d:\Work\Виланд\Backend\Viland\UserStore.BLL\bin\Debug\EntityFramework.SqlServer.dll
+d:\Work\Виланд\Backend\Viland\UserStore.BLL\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+d:\Work\Виланд\Backend\Viland\UserStore.BLL\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+d:\Work\Виланд\Backend\Viland\UserStore.BLL\bin\Debug\UserStore.DAL.dll
+d:\Work\Виланд\Backend\Viland\UserStore.BLL\bin\Debug\UserStore.DAL.pdb
+d:\Work\Виланд\Backend\Viland\UserStore.BLL\bin\Debug\EntityFramework.xml
+d:\Work\Виланд\Backend\Viland\UserStore.BLL\bin\Debug\EntityFramework.SqlServer.xml
+d:\Work\Виланд\Backend\Viland\UserStore.BLL\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+d:\Work\Виланд\Backend\Viland\UserStore.BLL\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+d:\Work\Виланд\Backend\Viland\UserStore.BLL\obj\Debug\UserStore.BLL.csprojResolveAssemblyReference.cache
+d:\Work\Виланд\Backend\Viland\UserStore.BLL\obj\Debug\UserStore.BLL.dll
+d:\Work\Виланд\Backend\Viland\UserStore.BLL\obj\Debug\UserStore.BLL.pdb

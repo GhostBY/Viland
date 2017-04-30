@@ -41,3 +41,20 @@ d:\Visual Studio\Исходники\UserStore\UserStore.DAL\obj\Debug\UserStore.
 d:\Visual Studio\Исходники\UserStore\UserStore.DAL\obj\Debug\UserStore.DAL.pdb
 d:\Visual Studio\Исходники\UserStore\UserStore.DAL\obj\Debug\UserStore.DAL.Migrations.test.resources
 d:\Visual Studio\Исходники\UserStore\UserStore.DAL\obj\Debug\UserStore.DAL.csproj.GenerateResource.Cache
+d:\Work\Виланд\Backend\Viland\UserStore.DAL\bin\Debug\UserStore.DAL.dll.config
+d:\Work\Виланд\Backend\Viland\UserStore.DAL\bin\Debug\UserStore.DAL.dll
+d:\Work\Виланд\Backend\Viland\UserStore.DAL\bin\Debug\UserStore.DAL.pdb
+d:\Work\Виланд\Backend\Viland\UserStore.DAL\bin\Debug\EntityFramework.dll
+d:\Work\Виланд\Backend\Viland\UserStore.DAL\bin\Debug\EntityFramework.SqlServer.dll
+d:\Work\Виланд\Backend\Viland\UserStore.DAL\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+d:\Work\Виланд\Backend\Viland\UserStore.DAL\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+d:\Work\Виланд\Backend\Viland\UserStore.DAL\bin\Debug\EntityFramework.xml
+d:\Work\Виланд\Backend\Viland\UserStore.DAL\bin\Debug\EntityFramework.SqlServer.xml
+d:\Work\Виланд\Backend\Viland\UserStore.DAL\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+d:\Work\Виланд\Backend\Viland\UserStore.DAL\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+d:\Work\Виланд\Backend\Viland\UserStore.DAL\obj\Debug\UserStore.DAL.csprojResolveAssemblyReference.cache
+d:\Work\Виланд\Backend\Viland\UserStore.DAL\obj\Debug\UserStore.DAL.Migrations.test.resources
+d:\Work\Виланд\Backend\Viland\UserStore.DAL\obj\Debug\UserStore.DAL.csproj.GenerateResource.Cache
+d:\Work\Виланд\Backend\Viland\UserStore.DAL\obj\Debug\UserStore.DAL.dll
+d:\Work\Виланд\Backend\Viland\UserStore.DAL\obj\Debug\UserStore.DAL.pdb
+d:\Work\Виланд\Backend\Viland\UserStore.DAL\obj\Debug\UserStore.DAL.Migrations.addarticle.resources

@@ -60,12 +60,17 @@
     <Compile Include="EF\ApplicationContext.cs" />
     <Compile Include="Entities\ApplicationRole.cs" />
     <Compile Include="Entities\ApplicationUser.cs" />
+    <Compile Include="Entities\Article.cs" />
     <Compile Include="Entities\ClientProfile.cs" />
     <Compile Include="Interfaces\IClientManager.cs" />
     <Compile Include="Interfaces\IUnitOfWork.cs" />
     <Compile Include="Migrations\201704200857182_test.cs" />
     <Compile Include="Migrations\201704200857182_test.Designer.cs">
       <DependentUpon>201704200857182_test.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201704301829235_add article.cs" />
+    <Compile Include="Migrations\201704301829235_add article.Designer.cs">
+      <DependentUpon>201704301829235_add article.cs</DependentUpon>
     </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -81,6 +86,9 @@
   <ItemGroup>
     <EmbeddedResource Include="Migrations\201704200857182_test.resx">
       <DependentUpon>201704200857182_test.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201704301829235_add article.resx">
+      <DependentUpon>201704301829235_add article.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
