@@ -12,9 +12,9 @@ namespace UserStore.BLL.Services
 {
     public class UserService : IUserService
     {
-        IUnitOfWork Database { get; set; }
+        IIdentityUnitOfWork Database { get; set; }
 
-        public UserService(IUnitOfWork uow)
+        public UserService(IIdentityUnitOfWork uow)
         {
             Database = uow;
         }

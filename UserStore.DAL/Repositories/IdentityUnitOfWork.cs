@@ -8,7 +8,7 @@ using UserStore.DAL.Identity;
 
 namespace UserStore.DAL.Repositories
 {
-    public class IdentityUnitOfWork : IUnitOfWork
+    public class IdentityUnitOfWork : IIdentityUnitOfWork
     {
         private ApplicationContext db;
 
